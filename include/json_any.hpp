@@ -34,6 +34,6 @@ struct adl_serializer<std::any> { //специализация шаблона
   }
 };
 
-
+//cnncnscnzncibs
 }// namespace nlohmann
 #endif  // INCLUDE_JSON_ANY_HPP_
