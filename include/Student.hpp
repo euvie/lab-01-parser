@@ -32,6 +32,8 @@ class Student {
   std::any get_avg() const;
   std::any get_debt() const;
 
+
+
  private:
   std::string name;
   std::any group;

@@ -23,5 +23,7 @@ class Table {
 
   std::vector<Student> m_students;
   std::vector<size_t> m_w;
+
+  friend std::ostream& operator << (std::ostream &out, Table& oslik);
 };
 #endif  // INCLUDE_TABLE_HPP_
